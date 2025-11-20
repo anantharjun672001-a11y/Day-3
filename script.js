@@ -51,3 +51,11 @@ console.log(arr[2])
 console.log(arr[3])
 console.log(arr.length)
 console.log(arr.length-1)
+
+
+//for loop
+
+for(var a=100;a<=200;a++){
+    console.log(a)
+}
+console.log(a)
