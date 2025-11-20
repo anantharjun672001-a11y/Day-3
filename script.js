@@ -40,3 +40,14 @@ function arithmetic1(a,b){
     return [a+b,a-b,a*b,a/b,a%b]
 }
 console.log(arithmetic1(10,3))
+
+
+//array print
+
+var arr=['a','123','true','undefined']
+console.log(arr[0])
+console.log(arr[1])
+console.log(arr[2])
+console.log(arr[3])
+console.log(arr.length)
+console.log(arr.length-1)
