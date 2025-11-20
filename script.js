@@ -59,3 +59,11 @@ for(var a=100;a<=200;a++){
     console.log(a)
 }
 console.log(a)
+
+// for loop with array
+
+var arr=[5,'ab','true',2.5]
+for(var i=0;i<arr.length;i++)
+{
+    console.log(arr[i])
+}
